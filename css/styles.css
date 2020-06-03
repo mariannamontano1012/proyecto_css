@@ -1,0 +1,108 @@
+/*-------GLOBAL------*/
+
+body{
+
+    color: purple;
+    background-color: sandybrown;
+    margin:0;
+    padding: 0;
+
+}
+
+img {
+
+    width: 300px;
+}
+
+h2{
+
+    margin: 0;
+}
+
+a:hover {
+
+    text-decoration: yellow;
+}
+
+
+.center{
+
+    width: 800px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+
+/*-------header------*/
+
+
+
+header{
+
+    background-color: #119DA4;
+    color: white;
+}
+
+/*-------Projects-----*/
+
+
+.projects{
+
+    background-color: palevioletred;
+    color: white;
+}
+
+.projects a {
+    
+    
+    color: darkblue;
+}
+
+.projects .btn {
+
+    color: darkblue;
+    background: yellow;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 4px;
+    display: inline-block;
+
+}
+
+.projects .btn:hover{
+
+    background: purple;
+
+}
+
+/*-------work experience------*/
+.work_experience{
+
+    background-color: limegreen;
+    color: white;
+
+}
+
+/*-------education------*/
+
+.education {
+
+    background-color: lightsalmon;
+    color: white;
+
+}
+
+
+
+h2{
+
+    color: indigo;
+}
+
+
+.example.example2
+{
+
+    color: lime;
+
+
+}
